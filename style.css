@@ -1,0 +1,10 @@
+body {
+    background-image: url(./imgs/paperBackground.png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    font-size: 50%;
+    color: rgb(183, 25, 25);
+}
